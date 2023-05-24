@@ -1,0 +1,5 @@
+Assignment,high
+video,low
+call,high
+studying,low
+Preparing presenation,low
